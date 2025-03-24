@@ -24,13 +24,13 @@ header{
 #aside-left{
     grid-column: 1 / 2;
     padding: 15px;
-    background-color: rgb(65, 66, 144);
+    background-color: rgb(56, 58, 196);
     color: white;
 }
 #aside-rigth{
     grid-column: 3 / 4;
     padding: 15px;
-    background-color: rgb(65, 66, 144);
+    background-color:  rgb(56, 58, 196);
     color: white;
 }
 main{
@@ -46,8 +46,9 @@ footer{
     color: white;
 }
 
-#img1{
+#img1,#img2{
+    display: block;
+    margin: auto;
     width: 200px;
     height: auto;
-    align-self: center;
 }
