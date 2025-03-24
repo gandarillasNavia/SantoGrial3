@@ -28,7 +28,9 @@ header{
     color: white;
 }
 #aside-rigth{
-    grid-column: 3 / 4;
+
+    
+    width: 1px;
     padding: 15px;
     background-color:  rgb(56, 58, 196);
     color: white;
@@ -46,9 +48,9 @@ footer{
     color: white;
 }
 
-#img1,#img2{
+#img1,#img2,#pslogo{
     display: block;
     margin: auto;
-    width: 200px;
+    width: 150px;
     height: auto;
 }
